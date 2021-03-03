@@ -1,4 +1,4 @@
-# Intel-Image-Classification-Image-Scene-Classification-of-Multiclass
+# Intel - Image Scene classification by VGG16
 Goal of this project is to classify the image scene, the way i used was deep learning by Keras.</br>
 Run place: Google Colab
 
