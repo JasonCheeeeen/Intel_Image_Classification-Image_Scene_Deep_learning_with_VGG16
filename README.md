@@ -14,4 +14,5 @@ Run place: Google Colab
 The accuracy of no-trained-weight model is about 91%, as for trained-weight model, it achieve about 93%.
 
 ## Reference
-[Kaggle] (https://www.kaggle.com/puneet6060/intel-image-classification/notebooks)
+[Kaggle] (https://www.kaggle.com/puneet6060/intel-image-classification/notebooks)</br>
+[Keras VGG16] (https://keras.io/api/applications/vgg/#vgg16-function)
