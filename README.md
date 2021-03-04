@@ -6,7 +6,7 @@ Run place: Google Colab
 * Combine data
 * Use "train_test_split" to split data (Training and validation data)
 
-## Train model
+## Model training
 * Use Tensorflow Keras application - VGG16 (Without training weights of model)
 * Open closed layers and training these layers's weights
 
